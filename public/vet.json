@@ -1,0 +1,33 @@
+[
+    {
+        "_id": 1,
+        "name": "Dr. Stiphanie",
+        "email": "drstiphen65@gmail.com",
+        "speciality": "Behavioral medicine",
+        "description": "Stephanie is very well known VET in the city. He is popularly knows as Pet Friend.",
+        "address": "Manchester",
+        "experience": "12+ Years",
+        "img": "https://i.ibb.co/tJCp7cM/dr1.jpg"
+        
+    },
+    {
+        "_id": 2,
+        "name": "Dr. Smith",
+        "email": "drsmith@yahoo.com",
+        "speciality": "Ophthalmology",
+        "description": "Smith’s treatment is undoubtedly best. He provides donation for homeless strays.",
+        "address": "Dublin",
+        "experience": "15+ Years",
+        "img": "https://i.ibb.co/NsCyycM/dr2.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "Dr. Ghosh",
+        "email": "drghosh@gmail.com",
+        "speciality": "Poultry veterinary medicine",
+        "description": "Ghosh is very popular in his city. His skill in treating poultry and birds is commendable",
+        "address": "Dhaka",
+        "experience": "7+ Years",
+        "img": "https://i.ibb.co/TrVHQQx/dr3.jpg"
+    }
+]

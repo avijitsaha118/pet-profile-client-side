@@ -1,0 +1,33 @@
+[
+    {
+        "_id": 1,
+        "name": "King",
+        "age": "5",
+        "breed": "Golden Retiever",
+        "description": "This my pet. Name King. I love King so much. King is the most adorable puppy I have ever seen.",
+        "address": "Dhaka",
+        "view": "15k+",
+        "img": "https://i.ibb.co/J2hYN8K/dog.jpg"
+        
+    },
+    {
+        "_id": 2,
+        "name": "Lara and White",
+        "age": "2",
+        "breed": "European Shorthair",
+        "description": "Both of them are loved by my family. They are so cute and adorable kitties. Lara and White.",
+        "address": "Romania",
+        "view": "18k+",
+        "img": "https://i.ibb.co/h1VhL3F/cat.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "Little Bill",
+        "age": "1",
+        "breed": "Parrot",
+        "description": "Bill is not caged birds. He fly in my room. Most of the time he is try to sing a song.",
+        "address": "Nepal",
+        "view": "9k+",
+        "img": "https://i.ibb.co/GW7NB25/bird1.jpg"
+    }
+]
